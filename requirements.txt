@@ -2,3 +2,9 @@ langchain
 openai
 streamlit
 python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+
